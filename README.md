@@ -1,6 +1,6 @@
 # Media Manager Lite
 
-![](https://hackatime-badge.hackclub.com/U097C2WLHAS/windows_media_manager)
+![](https://hackatime-badge.hackclub.com/U097C2WLHAS/media-manager-lite)
 
 A small project utilizing the [PyWinRT](https://github.com/pywinrt/pywinrt) library to read and manipulate Windows media controls in a Spotify-esque app format.
 
